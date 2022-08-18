@@ -6,3 +6,5 @@ This project extends the [original paper](https://arxiv.org/pdf/2109.02244.pdf) 
 The [original paper](https://arxiv.org/pdf/2109.02244.pdf) proposes a novel image retrieval system which uses a cross quantized contrastive learning strategy to jointly learn codewords as well as extraction of image descriptors, allowing for effective image retrieval using product quantization.
 
 Given below are query images and retrieval results : 
+
+![](https://github.com/smcri/Self-Supervised-Product-Quantization-for-Deep-Unsupervised-Image-retrieval/blob/main/query%20and%20ret.jpeg?raw=true)
